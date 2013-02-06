@@ -1,4 +1,24 @@
-pencil-showcase-template
+Pencil Showcase Template
 ========================
 
-Export HTML template for interactive prototypes based on evolus Pencil
+Export template for interactive prototypes made with [Pencil](http://www.evolus.vn/Pencil/Home.html).
+
+This template produces an HTML version of the prototype where only one page is shown at a time. 
+The user is able to click through the links defined in the prototype but no additional additional navegation elements are provided.
+This lack of chrome is convenient for using it for usability tests or other situations where we want to simulate the final system.
+
+The template is based on the [GUIPrototypingTemplate](http://code.google.com/p/evoluspencil/downloads/detail?name=GUIPrototypingTemplate.zip) created by the Evolus team.
+
+How to use
+----------
+
+In order to add the template to your Pencil installation:
+
+# Tools > Manage Export template...
+# Select "install new template" and select the file "pencil-showcase-template.zip"
+
+When exporting a prototype:
+
+# Document > Export document..
+# Indicate "that you want "Single web page" as output format, the pages to be exported, and "Showxase HTML template" as the template to be used.
+# Select the destination folder and export.
