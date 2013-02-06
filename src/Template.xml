@@ -1,0 +1,7 @@
+<Template xmlns="http://www.evolus.vn/Namespace/Pencil">
+    <Property name="id">Curiolis:HTML:Showcase</Property>
+    <Property name="name">Showcase HTML template</Property>
+    <Property name="author">Pau Giner</Property>
+    <Property name="description">Showcase interactive prototypes</Property>
+    <Property name="styleSheet">StyleSheet.xslt</Property>
+</Template>
