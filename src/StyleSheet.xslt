@@ -7,6 +7,7 @@
     <xsl:template match="/">
         <html>
             <head>
+            	<meta name="viewport" content="width=device-width, initial-scale=1"/>
                 <title>
                     <xsl:value-of select="/p:Document/p:Properties/p:Property[@name='fileName']/text()"/>
                 </title>
